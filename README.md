@@ -10,4 +10,4 @@ Here are some of the libraries and services I've been using:
 - 🎨 [Tailwind](https://github.com/tailwindlabs/tailwindcss)
 - 🗄 [Prisma](https://github.com/prisma/prisma)
 - 📠 [Vercel](https://vercel.com)
-- 📡 [DigitalOcean](https://www.digitalocean.com)
+- 📡 [DigitalOcean](https://www.digitalocean.com/products/managed-databases/)
