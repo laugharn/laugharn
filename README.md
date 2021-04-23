@@ -1,8 +1,6 @@
 ## Oh, hello.
 
-I'm Dan Laugharn, a full stack engineer at [Amherst](https://www.amherst.com) helping build new products for the consumer divison like https://bungalohomes.com, https://sell.bungalohomes.com, https://pecanre.com and more.
-
-Instead of doing a Code Advent this year, I'm spending December building [This](https://this.sh), a low stakes platform with the goal of being an enjoyable place to go online.
+I'm Dan Laugharn, a senior full stack engineer at [Amherst](https://www.amherst.com) helping build new products for the consumer divison like https://bungalohomes.com, https://sell.bungalohomes.com, https://pecanre.com and more.
 
 Here are some of the libraries and services I've been using:
 
