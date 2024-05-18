@@ -1,11 +1,1 @@
-## Oh, hello.
-
-I'm Dan Laugharn, a senior full stack engineer at [Amherst](https://www.amherst.com) helping build new products for the consumer divison like https://bungalohomes.com, https://sell.bungalohomes.com, https://pecanre.com and more.
-
-Here are some of the libraries and services I've been using:
-
-- 🏗 [Next.js](https://github.com/vercel/next.js)
-- 🎨 [Tailwind](https://github.com/tailwindlabs/tailwindcss)
-- 🗄 [Prisma](https://github.com/prisma/prisma)
-- 📠 [Vercel](https://vercel.com)
-- 📡 [DigitalOcean](https://www.digitalocean.com/products/managed-databases/)
+Hi, I’m Dan. Currently I'm the lead engineer at [🍳Made In](https://madeincookware.com), and before that I was at [🏡Amherst](https://www.amherst.com) and [🤖Aceable](https://www.aceable.com). I like JavaScript that behaves like PHP.
